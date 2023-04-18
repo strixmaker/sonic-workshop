@@ -1,2 +1,10 @@
-# Sonic Workshop
+![logo](https://user-images.githubusercontent.com/80713068/232776718-662bf573-bf86-4e11-92db-25b01d13921c.png)
+
+# **About**
+
+### **Sonic Workshop** is a Sonic the Hedgehog level editor inspired by projects such as **Super Mario Maker**, aswell as other fan-made level editors such as **Sonic Studio**. You are given an easy to understand set of tools to design Classic Sonic stages, which you can then share with the rest of the world using the vast community features.
+
+### This repository does NOT contain the project's source code, and is instead an alternative to using the Workshop Launcher (if you fancy downloading the clients separately). You will be taken here if the game cannot find a launcher installed.
+
+
 
