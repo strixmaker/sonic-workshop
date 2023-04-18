@@ -1,2 +1,2 @@
-# sonic-workshop
-a
+# Sonic Workshop
+
