@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/80713068/232776718-662bf573-bf86-4e11-92db-25b01d13921c.png)
+![WorkshopLogo_LowResGlow](https://user-images.githubusercontent.com/80713068/235229310-215a9b8a-fb40-4977-adf1-4b05f5521d8e.png)
 
 # **About**
 
